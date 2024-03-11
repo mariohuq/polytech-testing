@@ -1,0 +1,15 @@
+{
+	"build_systems": [
+		{
+			"name": "Pandoc for current file",
+			"cmd": ["./build.sh", "$file_base_name"],
+			"selector": "text.html.markdown",
+		},
+	],
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	]
+}

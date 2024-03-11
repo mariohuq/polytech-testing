@@ -1,0 +1,4 @@
+input-files:
+- lab1.md
+output-file: Кондраев Дмитрий - Лаб 1 Тестирование.pdf
+include-before-body: config/titlepageLab1.tex

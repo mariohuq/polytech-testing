@@ -1,0 +1,959 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"try\tTry/Except/Else"
+			],
+			[
+				"oper",
+				"\\operatorname"
+			],
+			[
+				"underbr",
+				"\\underbrace{}{}"
+			],
+			[
+				"overb",
+				"\\overbrace{}{}"
+			],
+			[
+				"underbrace",
+				"\\underbrace{}{}"
+			],
+			[
+				"unde",
+				"\\underbrace{}{}"
+			],
+			[
+				"lang",
+				"langid"
+			],
+			[
+				"fig",
+				"bfigure\tfigure"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"m",
+				"main\tmethod (main)"
+			],
+			[
+				"ran",
+				"rank"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"dsu",
+				"dsu_find_set"
+			],
+			[
+				"фц",
+				"функций"
+			],
+			[
+				"вычи",
+				"вычисляемых"
+			],
+			[
+				"прибл",
+				"приблизиженное"
+			],
+			[
+				"аппрос",
+				"аппроксимирующая"
+			],
+			[
+				"тех",
+				"техниками"
+			],
+			[
+				"defi",
+				"definition"
+			],
+			[
+				"begin",
+				"\\begin\t\\begin{}…\\end{}"
+			],
+			[
+				"subsc",
+				"\\subsection*{}"
+			],
+			[
+				"eq",
+				"equations"
+			],
+			[
+				"lo",
+				"log-line"
+			],
+			[
+				"log",
+				"log-line-re"
+			],
+			[
+				"in",
+				"interest-rate"
+			],
+			[
+				"a",
+				"add-language"
+			],
+			[
+				"re",
+				"remove-language"
+			],
+			[
+				"C",
+				"Clojure"
+			],
+			[
+				"la",
+				"lang-list"
+			],
+			[
+				"def",
+				"defaultdict"
+			],
+			[
+				"Dec",
+				"Decimal"
+			],
+			[
+				"fil",
+				"fillRect"
+			],
+			[
+				"fi",
+				"fillStyle"
+			],
+			[
+				"VB",
+				"VBoxManual"
+			],
+			[
+				"pl",
+				"plothyst"
+			],
+			[
+				"algo",
+				"algorithm"
+			],
+			[
+				"соответ",
+				"соответствующего"
+			],
+			[
+				"co",
+				"cormen2013"
+			],
+			[
+				"End",
+				"EndFor"
+			],
+			[
+				"Se",
+				"Select"
+			],
+			[
+				"En",
+				"EndIf"
+			],
+			[
+				"h",
+				"hamilton_cycles"
+			],
+			[
+				"Фл",
+				"Флойда-Уоршелла"
+			],
+			[
+				"setm",
+				"\\setminus"
+			],
+			[
+				"Llra",
+				"\\Longleftrightarrow"
+			],
+			[
+				"Co",
+				"Comment"
+			],
+			[
+				"newc",
+				"\\newcommand"
+			],
+			[
+				"alg",
+				"algorithm"
+			],
+			[
+				"Left",
+				"\\Leftrightarrow"
+			],
+			[
+				"cl",
+				"crlf"
+			],
+			[
+				"d",
+				"deftemplate"
+			],
+			[
+				"que",
+				"question-id-3"
+			],
+			[
+				"ques",
+				"question-id-2"
+			],
+			[
+				"quest",
+				"question-id"
+			],
+			[
+				"pa",
+				"page_id"
+			],
+			[
+				"dis",
+				"displayAnswers"
+			],
+			[
+				"val",
+				"valid-tags"
+			],
+			[
+				"va",
+				"valid-tags"
+			],
+			[
+				"valid",
+				"valid-tags"
+			],
+			[
+				"pr",
+				"printout"
+			],
+			[
+				"F",
+				"ForAll"
+			],
+			[
+				"Le",
+				"\\Leftrightarrow"
+			],
+			[
+				"part",
+				"\\partial"
+			],
+			[
+				"underb",
+				"\\underbrace"
+			],
+			[
+				"парам",
+				"параметрические"
+			],
+			[
+				"пара",
+				"Параметрические"
+			],
+			[
+				"be",
+				"\\begin"
+			],
+			[
+				"y",
+				"yml"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Pandoc for current file",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Pandoc for current file",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Pandoc for current file",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ww",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ru",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"run",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"py",
+				"SublimeREPL: Python"
+			],
+			[
+				"pytho",
+				"SublimeREPL: Python"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"sstex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"convb",
+				"UnicodeMath: Convert Back"
+			],
+			[
+				"conv",
+				"UnicodeMath: Convert"
+			],
+			[
+				"ssmd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"inl link",
+				"MarkdownEditing: New Inline Link"
+			],
+			[
+				"inl l",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"WW",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ss md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"REN",
+				"Rename File"
+			],
+			[
+				"replpy",
+				"SublimeREPL: Python"
+			],
+			[
+				"ssc++",
+				"Set Syntax: C++"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"clear",
+				"Clojure Sublimed: Clear Evaluation Results"
+			],
+			[
+				"buff",
+				"Clojure Sublimed: Evaluate Buffer"
+			],
+			[
+				"sock",
+				"Clojure Sublimed: Connect to Socket REPL"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"repl",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"sscl",
+				"Set Syntax: Clojure (Sublimed)"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"cloj sub",
+				"Preferences: Clojure Sublimed Key Bindings"
+			],
+			[
+				"eva",
+				"Clojure Sublimed: Evaluate Buffer"
+			],
+			[
+				"connect",
+				"Clojure Sublimed: Connect to Socket REPL"
+			],
+			[
+				"soc",
+				"Clojure Sublimed: Connect to Socket REPL"
+			],
+			[
+				"cloj sock",
+				"Clojure Sublimed: Connect to Socket REPL"
+			],
+			[
+				" Clojure Sublimed Key Bi",
+				"Preferences: Clojure Sublimed Key Bindings"
+			],
+			[
+				"Preferences: Clojure Sublimed Settings",
+				"Preferences: Clojure Sublimed Settings"
+			],
+			[
+				"cleare",
+				"Clojure Sublimed: Clear Evaluation Results"
+			],
+			[
+				"evb",
+				"Clojure Sublimed: Evaluate Buffer"
+			],
+			[
+				"reind",
+				"Clojure Sublimed: Reindent Buffer"
+			],
+			[
+				"clj",
+				"Clojure Sublimed: Evaluate"
+			],
+			[
+				"clrepl",
+				"Clojure Sublimed: Connect to Socket REPL"
+			],
+			[
+				"cloj",
+				"Clojure Sublimed: Evaluate"
+			],
+			[
+				"socrepl",
+				"Clojure Sublimed: Connect to Socket REPL"
+			],
+			[
+				"Socket REPL",
+				"Clojure Sublimed: Connect to Socket REPL"
+			],
+			[
+				"pyt",
+				"SublimeREPL: Python"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"TABS",
+				"View: Toggle Tabs"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"foot",
+				"MarkdownEditing: New Footnote"
+			],
+			[
+				"inl im",
+				"MarkdownEditing: New Inline Image"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"sslatex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"reb",
+				"LaTeXYZ: Remove BracketHighlighter Settings"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"fold",
+				"MarkdownEditing: Fold Current Section"
+			],
+			[
+				"name",
+				"Rename File"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git ",
+				"Git: Toggle Annotations"
+			],
+			[
+				"per",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"math",
+				"UnicodeMath: Convert Back"
+			],
+			[
+				"link",
+				"MarkdownEditing: New Inline Link"
+			],
+			[
+				"view ma",
+				"View: Toggle Minimap"
+			],
+			[
+				"unic",
+				"UnicodeMath: Convert Back"
+			],
+			[
+				"colors",
+				"MarkdownEditing: Select Color scheme"
+			],
+			[
+				"thmem",
+				"UI: Customize Theme"
+			],
+			[
+				"markdowne",
+				"Preferences: MarkdownEditing Settings"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 102.0,
+		"history":
+		[
+			"clear()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mhq/github.com/polytech/testing",
+		"/home/mhq/github.com/polytech/testing/config"
+	],
+	"file_history":
+	[
+		"/home/mhq/github.com/polytech/testing/lab1.md",
+		"/home/mhq/github.com/polytech/testing/config/titlepageLab1.tex",
+		"/home/mhq/github.com/polytech/testing/lab1_draft1.md",
+		"/home/mhq/github.com/polytech/testing/config/preamble.tex",
+		"/home/mhq/github.com/polytech/testing/config/lab1.yml",
+		"/home/mhq/github.com/polytech/testing/config/meta.yml",
+		"/home/mhq/github.com/polytech/testing/config/references.bib",
+		"/home/mhq/github.com/polytech/past/talgorithm/report/lab1.md",
+		"/home/mhq/github.com/polytech/graphics/config/titlepageLab2.tex",
+		"/home/mhq/github.com/polytech/databases/report/course.md",
+		"/home/mhq/Downloads/1.cpp",
+		"/home/mhq/Downloads/Source.cpp",
+		"/home/mhq/Downloads/Коренова 6 сем/тестированиеПО/отчеты_вани/лаб2/прог2/Prog2_Gavrilov.java",
+		"/home/mhq/Downloads/Коренова 6 сем/тестированиеПО/отчеты_вани/лаб2/прог1/main.cpp",
+		"/home/mhq/Downloads/Коренова 6 сем/тестированиеПО/test/program_2/program_2.txt",
+		"/home/mhq/Downloads/Коренова 6 сем/тестированиеПО/отчеты_вани/лаб2/прог1/diagram_2.drawio",
+		"/home/mhq/github.com/adonovan/gopl.io/README.md",
+		"/home/mhq/github.com/adonovan/gopl.io/ch2/cf/main.go",
+		"/home/mhq/Downloads/Коренова 6 сем/тестированиеПО/тестирование_лаб2/программа_2/main.cpp",
+		"/home/mhq/Downloads/Коренова 6 сем/тестированиеПО/тестирование_лаб2/программа_1/NOK.java",
+		"/home/mhq/github.com/adonovan/gopl.io/ch2/popcount/main.go",
+		"/home/mhq/github.com/polytech/testing/report.md",
+		"/home/mhq/github.com/polytech/probability-stats/idz4-var30.md",
+		"/home/mhq/github.com/polytech/testing/testing.sublime-project",
+		"/home/mhq/github.com/polytech/testing/config/report.yml",
+		"/home/mhq/disk.yandex.ru/6 семестр/bunnies.py",
+		"/home/mhq/github.com/polytech/testing/config/Test.yml",
+		"/home/mhq/Downloads/Коренова 6 сем/тестированиеПО/git_instruction.txt",
+		"/home/mhq/Downloads/Фомина 6 сем/тестирование ПО/lab1_ИнспекцияКода/лаба1ТестПО.tex",
+		"/home/mhq/github.com/polytech/probability-stats/idz4-var29.md",
+		"/home/mhq/Downloads/Telegram Desktop/idz(4).r",
+		"/home/mhq/github.com/polytech/probability-stats/idz4/idz_29.R",
+		"/home/mhq/Downloads/Telegram Desktop/idz4_124.txt",
+		"/home/mhq/github.com/polytech/probability-stats/idz4.md",
+		"/home/mhq/github.com/polytech/probability-stats/idz3-var29.md",
+		"/home/mhq/github.com/polytech/probability-stats/idz2-var29.md",
+		"/home/mhq/github.com/polytech/probability-stats/config/idz2-var29.yml",
+		"/home/mhq/github.com/polytech/attendance-app/RUN.md",
+		"/home/mhq/.cache/.fr-HHBRG2/GaluaFields-master/main.py",
+		"/home/mhq/.cache/.fr-F8S8F2/GaluaFields-master/main.py",
+		"/home/mhq/disk.yandex.ru/5 семестр/Моторин-семинар/my_summary/cas-dc-template.tex",
+		"/home/mhq/github.com/polytech/probability-stats/idz4/idz.R",
+		"/home/mhq/disk.yandex.ru/5 семестр/Моторин-семинар/images.md",
+		"/home/mhq/disk.yandex.ru/5 семестр/Моторин-семинар/orig-paper.md",
+		"/home/mhq/disk.yandex.ru/5 семестр/Моторин-семинар/images.md.html",
+		"/home/mhq/Downloads/glezova.md",
+		"/home/mhq/github.com/polytech/probability-stats/idz4/my.R",
+		"/home/mhq/github.com/polytech/probability-stats/config/idz4.yml",
+		"/home/mhq/Downloads/crypto_openssl.c",
+		"/home/mhq/github.com/polytech/probability-stats/idz3.md",
+		"/home/mhq/github.com/polytech/probability-stats/config/meta.yml",
+		"/home/mhq/github.com/polytech/probability-stats/config/preamble.tex",
+		"/home/mhq/github.com/polytech/probability-stats/main.tex",
+		"/etc/yum.repos.d/yandex.repo",
+		"/etc/yum.repos.d/yandex-disk.repo",
+		"/etc/dnf/dnf.conf",
+		"/home/mhq/disk.yandex.ru/5 семестр/курсовая-часы-logisim/коренова/курсач/автомат_часов.drawio",
+		"/home/mhq/github.com/polytech/probability-stats/config/mathematica.xml",
+		"/home/mhq/github.com/polytech/probability-stats/config/release.yml",
+		"/home/mhq/github.com/polytech/probability-stats/idz3/data.txt",
+		"/home/mhq/github.com/polytech/probability-stats/config/idz2.yml",
+		"/home/mhq/github.com/polytech/probability-stats/config/idz3.yml",
+		"/home/mhq/github.com/polytech/probability-stats/idz.md",
+		"/home/mhq/Downloads/graph_WwNCJKfcJJmUctJB.graphml",
+		"/home/mhq/github.com/polytech/probability-stats/idz2.md",
+		"/home/mhq/disk.yandex.ru/5 семестр/курсовая-часы-logisim/бокова фомина курсач ТА/opisanie_grafa.txt",
+		"/home/mhq/github.com/polytech/talgorithm/coursework/course.md",
+		"/home/mhq/disk.yandex.ru/5 семестр/курсовая-часы-logisim/КурсоваяТА2019/Курсовая.xml",
+		"/home/mhq/github.com/polytech/past/hs/serp-000.svg",
+		"/home/mhq/github.com/polytech/probability-stats/draft.md",
+		"/home/mhq/github.com/polytech/talgorithm/report/lab1.md",
+		"/home/mhq/github.com/polytech/probability-stats/debug.sh",
+		"/home/mhq/github.com/polytech/probability-stats/config/defaults.yml",
+		"/home/mhq/github.com/polytech/probability-stats/config/latex.template",
+		"/home/mhq/Downloads/f.md",
+		"/home/mhq/Downloads/fourier-3.tex",
+		"/home/mhq/Downloads/fourier-3(1).tex",
+		"/home/mhq/Downloads/fourier-3.md",
+		"/home/mhq/Downloads/latex.ltx",
+		"/home/mhq/github.com/polytech/probability-stats/ptms.sublime-project",
+		"/home/mhq/github.com/polytech/probability-stats/build.sh",
+		"/home/mhq/github.com/polytech/higher-maths-III/задача2-фурье-Кондраев.md",
+		"/home/mhq/github.com/polytech/teorver/idz.md",
+		"/home/mhq/Downloads/task_4.md",
+		"/home/mhq/github.com/polytech/past/tgraph/reports/config/debug.yml",
+		"/home/mhq/github.com/polytech/past/tgraph/reports/L6.tex",
+		"/home/mhq/github.com/polytech/talgorithm/report/config/GOST_R_7011_numeric.csl",
+		"/home/mhq/github.com/polytech/talgorithm/report/config/references.bib",
+		"/home/mhq/github.com/polytech/talgorithm/report/config/meta.yml",
+		"/home/mhq/github.com/polytech/talgorithm/report/config/defaults.yml",
+		"/home/mhq/github.com/polytech/talgorithm/report/config/debug.yml",
+		"/home/mhq/github.com/polytech/talgorithm/report/config/lab1.yml",
+		"/home/mhq/github.com/polytech/talgorithm/report/config/titlepageLab1.tex",
+		"/home/mhq/github.com/polytech/talgorithm/report/config/chem.html",
+		"/home/mhq/github.com/polytech/talgorithm/report/config/release.yml",
+		"/home/mhq/Downloads/A_New_Kind_of_Science.bibtex",
+		"/tmp/idea_updater_error.log",
+		"/home/mhq/github.com/polytech/talgorithm/.gitignore",
+		"/home/mhq/github.com/polytech/talgorithm/report/img/vonNeumann.pdf_tex",
+		"/home/mhq/github.com/polytech/talgorithm/report/config/preamble.tex",
+		"/home/mhq/Downloads/elibrary_ru.bib",
+		"/home/mhq/Downloads/Telegram Desktop/in.txt",
+		"/home/mhq/Downloads/Telegram Desktop/10k.decode",
+		"/home/mhq/github.com/polytech/talgorithm/report/report.sublime-project",
+		"/home/mhq/github.com/polytech/data-protection-labs/config/titlepageLab4.tex",
+		"/home/mhq/github.com/polytech/talgorithm/report.md",
+		"/home/mhq/github.com/polytech/data-protection-labs/lab5/cle.txt",
+		"/home/mhq/github.com/polytech/data-protection-labs/lab5/ipconfigall.txt",
+		"/home/mhq/openedu.ru/mashlearn/README.md",
+		"/home/mhq/openedu.ru/mashlearn/.gitignore",
+		"/home/mhq/openedu.ru/mashlearn/index.md",
+		"/home/mhq/github.com/polytech/ib-labs/README.md",
+		"/home/mhq/github.com/polytech/ib-labs/essay.md",
+		"/home/mhq/github.com/polytech/ib-labs/summary.md",
+		"/home/mhq/github.com/polytech/ib-labs/config/titlepageLab3.tex",
+		"/home/mhq/github.com/polytech/ib-labs/config/release.yml",
+		"/home/mhq/github.com/polytech/ib-labs/lab3.md",
+		"/home/mhq/github.com/polytech/ib-labs/ib.sublime-project",
+		"/home/mhq/github.com/polytech/ib-labs/config/references.bib",
+		"/home/mhq/github.com/polytech/ib-labs/config/meta.yml",
+		"/run/media/mhq/C40AEE9F0AEE8E2C/Users/mhq/Desktop/2k 3sem/Архитектура ЦВМ/1_laba.txt",
+		"/run/user/1000/gvfs/mtp:host=Google_Pixel_3_8CUX1TL0T/Internal shared storage/lnk.txt",
+		"/run/user/1000/gvfs/mtp",
+		"/home/mhq/.thunderbird/rg5s7tg4.default-release/user.js",
+		"/home/mhq/github.com/polytech/tgraph/reports/L6.md",
+		"/home/mhq/Desktop/5сем/ТРПО/tech-reqs.md",
+		"/home/mhq/github.com/polytech/tgraph/reports/L6 Кондраев.pdf",
+		"/home/mhq/Downloads/Коренова/3 КУРС 5 СЕМ/по/требования МА.txt"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"titlesec",
+			"Краскала",
+			"Крускал",
+			"Крускала",
+			"_Замечение_",
+			"-",
+			"^\\d+\\.",
+			"18.",
+			"17",
+			"замеч",
+			"    _Ответ:_ ",
+			"? ",
+			"•",
+			"-\n",
+			" — ",
+			"-\n",
+			"-",
+			"(",
+			"•",
+			"2.248289e+07",
+			"\t",
+			"</li",
+			"<li>",
+			"| ",
+			"\t",
+			"25.74886224",
+			"0.983907",
+			"4.97644",
+			"<li>",
+			"5.60",
+			"4.80",
+			"=",
+			"<li>",
+			"-",
+			"\\n",
+			"<li>",
+			"<li",
+			"\\s",
+			"−",
+			"=",
+			" ",
+			"createPrintWriterForLocalTests",
+			"withoutEdgesLess",
+			"sortEdges",
+			"idef0"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			" | ",
+			"−",
+			" ",
+			",",
+			"-",
+			","
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "testing.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ph",
+				"L8/PhoneEdit.h"
+			],
+			[
+				"Contacts",
+				"L8/Contacts.h"
+			],
+			[
+				"CreateContactButton",
+				"L8/CreateContactButton.h"
+			],
+			[
+				"PersonRowDelegate",
+				"L8/PersonRowDelegate.h"
+			],
+			[
+				"PersonListModel",
+				"L8/PersonListModel.h"
+			],
+			[
+				"PersonEdit",
+				"L8/PersonEdit.h"
+			],
+			[
+				"PhoneEditRow",
+				"L8/PhoneEditRow.h"
+			],
+			[
+				"PhoneEdit",
+				"L8/PhoneEdit.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/github.com/polytech/data-protection-labs/ib.sublime-project"
+			],
+			[
+				"micr",
+				"~/github.com/polytech-microcontrollers/reports/pandoc.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 373.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 668.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
